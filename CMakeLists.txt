@@ -58,3 +58,6 @@ target_link_libraries(odyssey PUBLIC sead)
 
 add_subdirectory(lib/agl)
 target_link_libraries(odyssey PUBLIC agl)
+
+#add_subdirectory(lib/LibMessageStudio)
+#target_link_libraries(odyssey PUBLIC LibMessageStudio)
