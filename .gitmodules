@@ -13,3 +13,6 @@
 [submodule "tools/common"]
 	path = tools/common
 	url = https://github.com/open-ead/nx-decomp-tools
+[submodule "lib/LibMessageStudio"]
+	path = lib/LibMessageStudio
+	url = https://github.com/Trippixyz/LibMessageStudio
