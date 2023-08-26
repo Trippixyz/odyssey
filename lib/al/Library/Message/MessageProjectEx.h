@@ -1,8 +1,7 @@
 #pragma once
 
-#include "message/seadMessageProject.h"
-
 #include <basis/seadTypes.h>
+#include "message/seadMessageProject.h"
 
 namespace al {
 class MessageProjectEx : public sead::MessageProject {
